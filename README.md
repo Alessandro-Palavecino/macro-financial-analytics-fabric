@@ -1,12 +1,12 @@
-# 🌎 Macroeconomic Financial Analytics Platform (Chile vs USA)
+- Macroeconomic Financial Analytics Platform (Chile vs USA)
 
 End-to-end macroeconomic analytics project built using Microsoft Fabric and public financial APIs.
 
-## 🎯 Objective
+- Objective
 
 Build a modern data platform to analyze macroeconomic indicators between Chile and the United States using Medallion architecture (Bronze, Silver, Gold).
 
-## 📊 Indicators Included
+- Indicators Included
 
 - 🇺🇸 US Inflation (CPI)
 - 🇺🇸 Federal Funds Rate
@@ -15,11 +15,11 @@ Build a modern data platform to analyze macroeconomic indicators between Chile a
 - 🇨🇱 Chile Monetary Policy Rate (TPM)
 - 💵 USD/CLP Exchange Rate
 
-## 🏗 Architecture
+- 🏗 Architecture
 
 API → Bronze → Silver → Gold → Semantic Model → Power BI Dashboard
 
-## ⚙ Technologies
+- Technologies
 
 - Microsoft Fabric
 - PySpark
